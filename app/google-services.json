@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546270702516",
+    "firebase_url": "https://landsproject-6acb4.firebaseio.com",
+    "project_id": "landsproject-6acb4",
+    "storage_bucket": "landsproject-6acb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546270702516:android:262d2011a55f9596e820e1",
+        "android_client_info": {
+          "package_name": "com.example.landsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546270702516-v83diaqis833qffb96dtafk9qkps5n5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lBFrNXgE6HayHdfX51DWKy-yfvYqRfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546270702516-v83diaqis833qffb96dtafk9qkps5n5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
